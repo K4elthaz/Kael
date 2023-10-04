@@ -14,7 +14,7 @@ const Navigation = () => {
           </Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link style={{ color: "yellow" }} href="/home">
+          <Nav.Link style={{ color: "yellow" }} href="#home">
             About
           </Nav.Link>
         </Nav.Item>
